@@ -1,6 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "0.1.1",
-  "apkUrl": "https://github.com/senpaistrmspprtvnz-creator/senanimes-releases/releases/download/v0.1.1/senanimes-0.1.1.apk",
-  "notes": "Transitions d'affiche corrigées, accueil instantané, barre de lecture qui suit le doigt."
+  "versionCode": 3,
+  "versionName": "1.0",
+  "minVersionCode": 3,
+  "apkUrl": "https://github.com/senpaistrmspprtvnz-creator/senanimes-releases/releases/download/v1.0/senanimes-1.0.apk",
+  "notes": "Catalogue sur Supabase, accueil du site au dessin de l'app. Les versions antérieures ne peuvent plus lire le catalogue."
 }
