@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0",
-  "minVersionCode": 3,
-  "apkUrl": "https://github.com/senpaistrmspprtvnz-creator/senanimes-releases/releases/download/v1.0/senanimes-1.0.apk",
-  "notes": "Catalogue sur Supabase, accueil du site au dessin de l'app. Les versions antérieures ne peuvent plus lire le catalogue."
+  "versionCode": 4,
+  "versionName": "1.1",
+  "minVersionCode": 4,
+  "apkUrl": "https://github.com/senpaistrmspprtvnz-creator/senanimes-releases/releases/download/v1.1/senanimes-1.1.apk",
+  "notes": "Le mur publicitaire arrive dans l'app : dix paliers, ou aucun si tu es abonné.\nL'écran ne s'éteint plus pendant un épisode.\nSur le site, la rangée « Reprendre » suit ton compte et non ton navigateur."
 }
