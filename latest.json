@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.2",
-  "minVersionCode": 5,
-  "apkUrl": "https://github.com/senpaistrmspprtvnz-creator/senanimes-releases/releases/download/v1.2/senanimes-1.2.apk",
-  "notes": "L'app ne se ferme plus au lancement.\nMur publicitaire : 3 paliers au lieu de 10.\nLes épisodes téléchargés restent dans l'app.\nL'écran ne s'éteint plus pendant un épisode."
+  "versionCode": 6,
+  "versionName": "1.3",
+  "minVersionCode": 6,
+  "apkUrl": "https://github.com/senpaistrmspprtvnz-creator/senanimes-releases/releases/download/v1.3/senanimes-1.3.apk",
+  "notes": "Si l'app ne peut pas démarrer, un écran de secours propose la mise à jour — plus besoin de lien.\nLa vidéo ne tourne plus sous le mur publicitaire."
 }
