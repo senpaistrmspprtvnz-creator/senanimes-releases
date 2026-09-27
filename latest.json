@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.4",
-  "minVersionCode": 6,
-  "apkUrl": "https://github.com/senpaistrmspprtvnz-creator/senanimes-releases/releases/download/v1.4/senanimes-1.4.apk",
-  "notes": "Ton Premium reste reconnu même sans connexion.\nCorrections et améliorations."
+  "versionCode": 8,
+  "versionName": "1.5",
+  "minVersionCode": 8,
+  "apkUrl": "https://github.com/senpaistrmspprtvnz-creator/senanimes-releases/releases/download/v1.5/senanimes-1.5.apk",
+  "notes": "Lecture plus fluide, qui ne se fige plus.\nReprendre suit ta progression entre le site et l'app.\nTéléchargements qui se terminent même app fermée.\nAccueil plus rapide, Top 10 et saisons refaits.\nCorrections et améliorations."
 }
