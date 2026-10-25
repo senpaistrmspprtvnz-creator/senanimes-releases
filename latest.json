@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.6",
-  "minVersionCode": 9,
-  "apkUrl": "https://github.com/senpaistrmspprtvnz-creator/senanimes-releases/releases/download/v1.6/senanimes-1.6.apk",
-  "notes": "Tout le catalogue du site, enfin dans l'app.\nTéléchargements rangés par anime, épisodes dans leur fiche.\nTéléchargement des abonnés corrigé, messages clairs en cas de souci.\nReprendre et Ma Liste synchronisés avec le site.\nCorrections et améliorations."
+  "versionCode": 10,
+  "versionName": "1.7",
+  "minVersionCode": 10,
+  "apkUrl": "https://github.com/senpaistrmspprtvnz-creator/senanimes-releases/releases/download/v1.7/senanimes-1.7.apk",
+  "notes": "J’avais oublier quelque truc lol: Épisodes téléchargés : durée exacte et avance rapide réparées. Lecteur : épisode suivant, image dans l'image et réglages (vitesse, VO/VF, sous-titres, qualité). Images de l'historique corrigées. Corrections et améliorations. "
 }
