@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.7",
-  "minVersionCode": 10,
-  "apkUrl": "https://github.com/senpaistrmspprtvnz-creator/senanimes-releases/releases/download/v1.7/senanimes-1.7.apk",
-  "notes": "J’avais oublier quelque truc lol: Épisodes téléchargés : durée exacte et avance rapide réparées. Lecteur : épisode suivant, image dans l'image et réglages (vitesse, VO/VF, sous-titres, qualité). Images de l'historique corrigées. Corrections et améliorations. "
+  "versionCode": 11,
+  "versionName": "1.8",
+  "minVersionCode": 11,
+  "apkUrl": "https://github.com/senpaistrmspprtvnz-creator/senanimes-releases/releases/download/v1.8/senanimes-1.8.apk",
+  "notes": "Téléchargements réparés : les épisodes partent deux par deux et reprennent seuls après une coupure. Ceux qui étaient en échec repartent tout seuls. En cas de souci, la raison s'affiche (par exemple : plus assez de place)."
 }
