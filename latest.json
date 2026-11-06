@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.9",
-  "minVersionCode": 12,
-  "apkUrl": "https://github.com/senpaistrmspprtvnz-creator/senanimes-releases/releases/download/v1.9/senanimes-1.9.apk",
-  "notes": "Choisis la qualité de tes téléchargements (480p, 720p ou qualité d'origine selon ton abonnement), avec le poids affiché. Nouveau lecteur : passer l'intro, langue VO/VF, qualité, vitesse et lecture en boucle. Durée des épisodes téléchargés corrigée."
+  "versionCode": 13,
+  "versionName": "1.10",
+  "minVersionCode": 13,
+  "apkUrl": "https://github.com/senpaistrmspprtvnz-creator/senanimes-releases/releases/download/v1.10/senanimes-1.10.apk",
+  "notes": "Téléchargements réparés : après le choix de la qualité, l'épisode se télécharge bien."
 }
